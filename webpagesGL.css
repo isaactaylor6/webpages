@@ -1,0 +1,23 @@
+/*
+ *Name: Isaac Taylor
+ *UnityID: iltaylo2
+ *Date: 09/26/26
+ *Assignment: WebpagesGL.css
+ *Description: Formating to Times New Roman, the font size, and color. Creating a table border and resizing the photo. 
+ */
+ 
+p {
+    font-family: Times;
+    font-size: 16px;
+    color: #DECAFF;
+}
+
+.table-border {
+    border: 1px solid #DECAFF;
+}
+
+#photo-resize {
+    max-width: 250px;
+    max-height: 300px;
+
+}

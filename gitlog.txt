@@ -1,0 +1,11 @@
+commit 4f2271d845140cbf5c17e8550e361bf3c4a27cc9
+Author: Isaac Taylor <iltaylo2@ncsu.edu>
+Date:   Sat Sep 26 16:04:14 2026 -0400
+
+    add webpage picture
+
+commit 1474009839fbd6e8af986a83f2eb436dfa58afca
+Author: Isaac Taylor <iltaylo2@ncsu.edu>
+Date:   Sat Sep 26 15:37:18 2026 -0400
+
+    uploading files
